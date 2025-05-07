@@ -293,6 +293,7 @@ pip install git+https://github.com/xinyu1205/recognize-anything.git
 ```bash
 git clone https://github.com/xinyu1205/recognize-anything.git
 cd recognize-anything
+pip install -r requirements.txt
 pip install -e .
 ```
 
